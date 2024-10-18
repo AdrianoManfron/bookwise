@@ -1,0 +1,13 @@
+<?php
+
+$livros = [
+    ['id' => 1, 'titulo' => 'Senhor dos Aneis', 'autor' => 'J.R.R. Tolkien', 'descricao' => 'A história se passa em um mundo fictício, a Terra-média, onde várias raças, como humanos, anões, elfos, ents e hobbits, se unem para impedir que o "Anel do Poder" caia nas mãos de Sauron, o Senhor Sombrio.'],
+    ['id' => 2, 'titulo' => '1984', 'autor' => 'George Orwell', 'descricao' => 'A obra retrata uma sociedade futura, em 1984, onde a Inglaterra é dominada por um regime totalitário e autoritário, que vigia a população através do Grande Irmão.'],
+    ['id' => 3, 'titulo' => 'O grande Gatsby', 'autor' => 'F. Scott Fitzgerald', 'descricao' => 'O Grande Gatsby é um romance que retrata a alta sociedade de Nova York na década de 1920. A história gira em torno de Jay Gatsby, um milionário misterioso e anfitrião de festas luxuosas, e a sua relação com Daisy Buchanan, uma jovem de Louisville que se casa com o rico Tom Buchanan.'],
+    ['id' => 4, 'titulo' => 'Orgulho e Preconceito', 'autor' => 'Jane Austen', 'descricao' => 'A obra aborda a questão da sucessão na família, já que não há herdeiros homens, e o papel fundamental do casamento para as mulheres na sociedade patriarcal da época.'],
+    ['id' => 5, 'titulo' => 'Moby Dick', 'autor' => 'Herman Melville', 'descricao' => 'Moby Dick é um romance que conta a história do capitão Ahab e sua busca obsessiva pela baleia Moby Dick.'],
+    ['id' => 6, 'titulo' => 'Guerra e Paz', 'autor' => 'Liev Tolstói', 'descricao' => 'O enredo deste clássico da literatura russa se passa durante a campanha de Napoleão na Áustria, e descreve a invasão da Rússia pelo exército francês e a sua retirada, compreendendo o período de 1805 a 1820.'],
+    ['id' => 7, 'titulo' => 'O Apanhador no Campo de Centeio', 'autor' => 'J.D. Salinger', 'descricao' => 'O Apanhador no Campo de Centeio narra a busca do narrador Holden Caulfield por seu lugar no mundo, visto que ele se encontra em um espaço intermediário entre abandonar e permanecer em meio às instituições que o criaram (família, escola, amigos).'],
+    ['id' => 8, 'titulo' => 'Crime e Castigo', 'autor' => 'Fiódor Dostoiévski', 'descricao' => 'Um jovem estudante, pobre e desesperado, perambula pelas ruas de São Petersburgo até cometer um crime que tentará justificar por uma teoria: grandes homens, como César ou Napoleão, foram assassinos absolvidos pela História.'],
+    ['id' => 9, 'titulo' => 'Ulisses', 'autor' => 'James Joyce', 'descricao' => 'Conta a história de um dia na vida de Leopold Bloom, um vendedor de anúncios de Dublin, na Irlanda, em 1904. A obra é uma paródia da Odisseia, de Homero, e é considerada um divisor de águas na literatura'],
+];
