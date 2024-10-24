@@ -22,4 +22,4 @@ class DB {
     }
 }
 
-$database = new DB($config['database']);
+$database = new DB(config('database'));
