@@ -3,6 +3,6 @@
 return [
     'database' => [
         'driver' => 'sqlite',
-        'database' => 'db.sqlite',
+        'database' => '../db.sqlite',
     ],
 ];
